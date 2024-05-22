@@ -52,6 +52,8 @@ Twitter 是全球最大的社交网络媒体服务商之一，移动用户占比
 
 之后会开始审核广告，审核通过后广告开始投放。
 
+[点击此处获取 Fomepay 开卡地址](https://gpt.fomepay.com/#/pages/login/index?d=Q3DD80)
+
 ![Ad Review](https://miro.medium.com/v2/resize:fit:640/0*tHDBdA8qzTqgSN6i.png)
 
-[点击此处获取 Fomepay 开卡地址](https://gpt.fomepay.com/#/pages/login/index?d=Q3DD80)。
+
